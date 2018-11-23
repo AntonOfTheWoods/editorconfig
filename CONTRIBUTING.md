@@ -21,7 +21,7 @@ EditorConfig could really use:
 - Your feedback, opinions, and advice.  We really want to hear what you think!
 - More plugins!  We want all the plugins.
 - Add your projects to [Projects Using EditorConfig][1] and watch the community grow!
-- Help evangelize.  More EditorConfig users means less style wars.
+- Help evangelize.  More EditorConfig users means fewer style wars.
 - Help maintaining and improving core libraries.
 
 More stuff we could use:
